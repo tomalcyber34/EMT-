@@ -4,8 +4,8 @@
 
 OLD ID CRACKING COMMAND 
 
-git clone https://github.com/tomalcyber34/TOMAL-CHOWDHURY-.git
+git clone https://github.com/tomalcyber34/EMT-.git
 
-cd EMT
+cd EMT-
 
 python tomal.py
